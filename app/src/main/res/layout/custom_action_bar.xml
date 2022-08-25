@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:id="@+id/back_button"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            app:srcCompat="@drawable/baseline_arrow_back_24"
+            android:layout_centerVertical="true"
+            android:background="?attr/selectableItemBackground"/>
+
+        <ImageButton
+            android:id="@+id/left_cursor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/datePicker"
+            android:background="?attr/selectableItemBackground"
+            app:srcCompat="@drawable/baseline_keyboard_arrow_left_24"
+            android:layout_toStartOf="@id/datePicker" />
+
+        <TextView
+            android:id="@+id/datePicker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            tools:text="DATE"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/right_cursor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/datePicker"
+            android:background="?attr/selectableItemBackground"
+            app:srcCompat="@drawable/baseline_keyboard_arrow_right_24"
+            android:layout_toEndOf="@id/datePicker" />
+
+
+</RelativeLayout>
+
