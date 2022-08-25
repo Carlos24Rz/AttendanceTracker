@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "bus_route_array">
+        <item>@string/bus_one</item>
+        <item>@string/bus_two</item>
+        <item>@string/bus_three</item>
+        <item>@string/bus_four</item>
+        <item>@string/bus_five</item>
+        <item>@string/bus_six</item>
+        <item>@string/bus_seven</item>
+        <item>@string/bus_eight</item>
+        <item>@string/bus_nine</item>
+        <item>@string/bus_ten</item>
+    </string-array>
+
+</resources>

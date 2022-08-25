@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">AttendanceTracker</string>
+
+
+        <string name= "present">Present</string>
+
+        <string name= "absent">Absent</string>
+
+        <string name= "attendance_main_page">Attendance</string>
+
+        <string name= "track_main_page">Track Attendance</string>
+
+        <string name= "bus_selection_prompt">Select Bus Number</string>
+
+        <string name= "add_student_prompt">Add Student</string>
+
+        <string name="column_name_student">Student Name</string>
+
+        <string name="column_morning">Morning</string>
+
+        <string name="column_afternoon">Afternoon</string>
+
+        <string name="done">Done</string>
+
+        <string name="first_name_hint">First Name</string>
+
+        <string name="last_name_hint">Last Name</string>
+
+        <string name="bus_one">One</string>
+        <string name="bus_two">Two</string>
+        <string name="bus_three">Three</string>
+        <string name="bus_four">Four</string>
+        <string name="bus_five">Five</string>
+        <string name="bus_six">Six</string>
+        <string name="bus_seven">Seven</string>
+        <string name="bus_eight">Eight</string>
+        <string name="bus_nine">Nine</string>
+        <string name="bus_ten">Ten</string>
+
+        <string name="bus_one_title">Bus One</string>
+        <string name="bus_two_title">Bus Two</string>
+        <string name="bus_three_title">Bus Three</string>
+        <string name="bus_four_title">Bus Four</string>
+        <string name="bus_five_title">Bus Five</string>
+        <string name="bus_six_title">Bus Six</string>
+        <string name="bus_seven_title">Bus Seven</string>
+        <string name="bus_eight_title">Bus Eight</string>
+        <string name="bus_nine_title">Bus Nine</string>
+        <string name="bus_ten_title">Bus Ten</string>
+
+        <string name="month_january">January</string>
+        <string name="month_february">February</string>
+        <string name="month_march">March</string>
+        <string name="month_april">April</string>
+        <string name="month_may">May</string>
+        <string name="month_june">June</string>
+        <string name="month_july">July</string>
+        <string name="month_august">August</string>
+        <string name="month_september">September</string>
+        <string name="month_october">October</string>
+        <string name="month_november">November</string>
+        <string name="month_december">December</string>
+
+    </resources>
+
